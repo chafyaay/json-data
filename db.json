@@ -1,4 +1,5 @@
-{{
+{
+  {
 "phone":"06677889900",
 "firstname":"yassine",
 "lastname":"homp"},
@@ -10,4 +11,5 @@
 "phone":"0789965",
 "firstname":"fadwa",
 "lastname":"rihio"}
-}}
+}
+}
