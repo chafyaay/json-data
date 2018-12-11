@@ -1,19 +1,264 @@
-
-[
-  {
-"phone":"06677889900",
-"firstname":"yassine",
-"lastname":"homp"
-  },
 {
-"phone":"08997765",
-"firstname":"noha",
-"lastname":"daddi"
-},
-{
-"phone":"0789965",
-"firstname":"fadwa",
-"lastname":"rihio"
+  "numberPhones": [
+    {
+      "id": 1,
+      "phone": "777777777"
+    },
+    {
+      "id": 2,
+      "phone": "778888888"
+    },
+    {
+      "id": 3,
+      "phone": "779999999"
+    },
+    {
+      "id": 4,
+      "phone": "776666666"
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7,
+      "phoneNumber": "00221 78 888 88 88"
+    },
+    {
+      "id": 8,
+      "phoneNumber": "77 222 22 22"
+    },
+    {
+      "id": 9,
+      "phoneNumber": "77 222 22 22"
+    },
+    {
+      "id": 10,
+      "phoneNumber": "77 777 77 77"
+    },
+    {
+      "id": 11,
+      "phoneNumber": "77 777 77 77"
+    },
+    {
+      "id": 12,
+      "phoneNumber": "77 777 77 77"
+    },
+    {
+      "id": 13,
+      "phoneNumber": "77 222 22 22"
+    },
+    {
+      "id": 14,
+      "phoneNumber": "77 777 77 77"
+    },
+    {
+      "id": 15,
+      "phoneNumber": "77 777 77 77"
+    },
+    {
+      "id": 16,
+      "phoneNumber": "77 777 77 77"
+    },
+    {
+      "id": 17,
+      "phoneNumber": "77 555 55 55"
+    },
+    {
+      "id": 18,
+      "phoneNumber": "77 555 55 55"
+    },
+    {
+      "id": 19,
+      "phoneNumber": "77 555 55 55"
+    },
+    {
+      "id": 20,
+      "phoneNumber": "77 555 55 55"
+    },
+    {
+      "id": 21,
+      "phoneNumber": "77 555 55 55"
+    },
+    {
+      "id": 22,
+      "phoneNumber": "77 777 77 77"
+    },
+    {
+      "id": 23,
+      "phoneNumber": "77 777 77 77"
+    },
+    {
+      "id": 24,
+      "phoneNumber": "77 777 77 77"
+    },
+    {
+      "id": 25,
+      "phoneNumber": "77 777 77 77"
+    },
+    {
+      "id": 26,
+      "phoneNumber": "77 333 33 33"
+    },
+    {
+      "id": 27,
+      "phoneNumber": "77 333 33 33"
+    },
+    {
+      "id": 28,
+      "phoneNumber": "77 777 77 77"
+    },
+    {
+      "id": 29,
+      "phoneNumber": "77 777 77 77"
+    },
+    {
+      "id": 30,
+      "phoneNumber": "77 333 33 33"
+    },
+    {
+      "id": 31,
+      "phoneNumber": "77 777 77 77"
+    },
+    {
+      "id": 32,
+      "phoneNumber": "77 333 33 33"
+    },
+    {
+      "id": 33,
+      "phoneNumber": "77 333 33 33"
+    },
+    {
+      "id": 34,
+      "phoneNumber": "77 333 33 33"
+    },
+    {
+      "id": 35,
+      "phoneNumber": "77 333 33 33"
+    },
+    {
+      "id": 36,
+      "phoneNumber": "77 888 88 88"
+    },
+    {
+      "id": 37,
+      "phoneNumber": "+221 77 777 77 77"
+    },
+    {
+      "id": 38,
+      "phoneNumber": "77 777 77 77"
+    },
+    {
+      "id": 39,
+      "phoneNumber": "77 777 77 77"
+    },
+    {
+      "id": 40,
+      "phoneNumber": "77 777 77 77"
+    },
+    {
+      "id": 41,
+      "phoneNumber": "77 777 77 77"
+    },
+    {
+      "id": 42,
+      "phoneNumber": "77 777 77 77"
+    },
+    {
+      "id": 43,
+      "phoneNumber": "00221 77 777 77 77"
+    },
+    {
+      "id": 44,
+      "phoneNumber": "+221 77 777 77 77"
+    },
+    {
+      "id": 45,
+      "phoneNumber": "78 888 88 88"
+    },
+    {
+      "id": 46,
+      "phoneNumber": "77 888 88 88"
+    },
+    {
+      "id": 47,
+      "phoneNumber": "78 888 88 88"
+    }
+  ],
+  "phoneStatus": [
+    {
+      "phone": "77 222 22 22",
+      "isOrange": true,
+      "isAttached": false,
+      "isMain": false
+    },
+    {
+      "phone": "77 333 33 33",
+      "isOrange": true,
+      "isAttached": true,
+      "isMain": false
+    },
+    {
+      "phone": "77 444 44 44",
+      "isOrange": false,
+      "isAttached": false,
+      "isMain": false
+    },
+    {
+      "phone": "77 555 55 55",
+      "isOrange": true,
+      "isAttached": false,
+      "isMain": true
+    }
+  ],
+  "users": [
+    {
+      "phone": "77 888 88 88",
+      "attachedNumbers": [
+        "77 000 00 00",
+        "78 111 11 11",
+        "77 222 22 22"
+      ],
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john@gmail.com",
+      "age": 34,
+      "companyId": "1"
+    },
+    {
+      "phone": "77 999 99 99",
+      "firstName": "Mark",
+      "lastName": "Williams",
+      "email": "mark@gmail.com",
+      "age": 33,
+      "companyId": "1",
+      "attachedNumbers": [
+        "77 111 11 11"
+      ]
+    },
+    {
+      "id": "3",
+      "firstName": "Sara",
+      "lastName": "Smith",
+      "email": "sara@gmail.com",
+      "age": 23,
+      "companyId": "2"
+    },
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john@gmail.com",
+      "age": 34,
+      "companyId": "1",
+      "phoneNumner": "778899882",
+      "attachesNumbers": [
+        "77998856",
+        "78554433",
+        "7711225500"
+      ],
+      "id": "MqKceCW"
+    }
+  ]
 }
-]
-
