@@ -1,4 +1,33 @@
 {
+  "numberPhones": [
+    
+  ],
+  "phoneStatus": [
+    {
+      "phone": "77 222 22 22",
+      "isOrange": true,
+      "isAttached": false,
+      "isMain": false
+    },
+    {
+      "phone": "77 333 33 33",
+      "isOrange": true,
+      "isAttached": true,
+      "isMain": false
+    },
+    {
+      "phone": "77 444 44 44",
+      "isOrange": false,
+      "isAttached": false,
+      "isMain": false
+    },
+    {
+      "phone": "77 555 55 55",
+      "isOrange": true,
+      "isAttached": false,
+      "isMain": true
+    }
+  ],
   "users": [
     {
       "phone": "77 888 88 88",
