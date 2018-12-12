@@ -1,7 +1,19 @@
 {
- "orangeNumbers": ["HHHH","GGGG"],
+ "orangeNumbers": [
+  {"phone":"77 111 22 22"}
+ ],
  "users": [
     {
+      "mainNumber": "77 777 77 77",
+      "attachedNumbers": [
+        "77 000 00 00",
+        "77 111 11 11"
+      ],
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john@gmail.com"
+    },
+  {
       "mainNumber": "77 777 77 77",
       "attachedNumbers": [
         "77 000 00 00",
