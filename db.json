@@ -1,79 +1,25 @@
 {
-  "numberPhones": [
-    
-  ],
-  "phoneStatus": [
-    {
-      "phone": "77 222 22 22",
-      "isOrange": true,
-      "isAttached": false,
-      "isMain": false
-    },
-    {
-      "phone": "77 333 33 33",
-      "isOrange": true,
-      "isAttached": true,
-      "isMain": false
-    },
-    {
-      "phone": "77 444 44 44",
-      "isOrange": false,
-      "isAttached": false,
-      "isMain": false
-    },
-    {
-      "phone": "77 555 55 55",
-      "isOrange": true,
-      "isAttached": false,
-      "isMain": true
-    }
-  ],
+  "orangeNumbers": [],
   "users": [
     {
-      "phone": "77 888 88 88",
+      "mainNumber": "77 777 77 77",
       "attachedNumbers": [
         "77 000 00 00",
-        "78 111 11 11",
-        "77 222 22 22"
-      ],
-      "firstName": "John",
-      "lastName": "Doe",
-      "email": "john@gmail.com",
-      "age": 34,
-      "companyId": "1"
-    },
-    {
-      "phone": "77 999 99 99",
-      "firstName": "Mark",
-      "lastName": "Williams",
-      "email": "mark@gmail.com",
-      "age": 33,
-      "companyId": "1",
-      "attachedNumbers": [
         "77 111 11 11"
-      ]
-    },
-    {
-      "id": "3",
-      "firstName": "Sara",
-      "lastName": "Smith",
-      "email": "sara@gmail.com",
-      "age": 23,
-      "companyId": "2"
-    },
-    {
+      ],
       "firstName": "John",
       "lastName": "Doe",
-      "email": "john@gmail.com",
-      "age": 34,
-      "companyId": "1",
-      "phoneNumner": "778899882",
-      "attachesNumbers": [
-        "77998856",
-        "78554433",
-        "7711225500"
+      "email": "john@gmail.com"
+    },
+    {
+      "mainNumber": "78 888 88 88",
+      "attachedNumbers": [
+        "78 000 00 00",
+        "78 111 11 11"
       ],
-      "id": "MqKceCW"
+      "firstName": "yassine",
+      "lastName": "chafyaay",
+      "email": "john@gmail.com"
     }
   ]
 }
