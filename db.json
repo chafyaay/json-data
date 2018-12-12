@@ -1,5 +1,9 @@
 {
-  "orangeNumbers": [],
+  "orangeNumbers": [
+  '77 444 44 44',
+    '77 666 66 66',
+    '77 666 66 66',
+  ],
   "users": [
     {
       "mainNumber": "77 777 77 77",
