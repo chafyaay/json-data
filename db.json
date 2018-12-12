@@ -1,12 +1,5 @@
 {
- "orangeNumbers": [
-  {
-   "phone":"77 111 22 22"
-  },
-  {
-   "phone":"77 222 33 33"
-  }
- ],
+ "orangeNumbers": [],
  "users": [
     {
       "mainNumber": "77 777 77 77",
